@@ -1,25 +1,89 @@
 aid: athena-security
+
 name: Athena Security
-description: 'Athena Security is a company surfaced via the API Evangelist harvest backlog (source: secondary-market;
-  backed by starting-line-vc) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.athena-security.com/wp-content/uploads/2026/02/Group-3-1.webp
+
+description: 'Athena Security provides AI‑driven weapons detection systems for schools, hospitals, and public venues. Their platform combines advanced imaging, AI analytics, and real‑time alerts to help organizations prevent violent incidents. The company offers hardware, operator apps, compliance reporting, and integration services, aiming to enhance safety across critical infrastructure.'
+
 url: https://raw.githubusercontent.com/api-evangelist/athena-security/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- Security
+- AI
+- WeaponsDetection
+- Safety
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
+common:
+- type: SecurityTxt
+  url: well-known/athena-security-clarity-security.txt
+- type: WellKnown
+  url: well-known/athena-security-well-known.yml
+- type: Security
+  url: https://clarity.com/vdp
+- type: LLMsTxt
+  url: llms/athena-security-llms.txt
+- type: Hosts
+  url: hosts/athena-security-hosts.yml
+- type: Vendors
+  url: vendors/athena-security-vendors.yml
+- type: TermsOfService
+  url: https://www.athena-security.com/terms-and-conditions/
+- type: Support
+  url: https://support.athena-security.com/support/home
+- type: StatusPage
+  url: https://status.athena-security.com/
+- type: PrivacyPolicy
+  url: https://www.athena-security.com/privacy-policy/
+- type: Newsroom
+  url: https://www.athena-security.com/press/
+- type: Leadership
+  url: https://www.athena-security.com/team/
+- type: Blog
+  url: https://www.athena-security.com/blog/
+- type: VulnerabilityDisclosure
+  url: security/athena-security-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/athena-security-domain-security.yml
+- type: Website
+  url: https://www.athena-security.com/
+
+apis: []
+
 x-backed-by:
 - starting-line-vc
-common:
-- type: Website
-  url: https://www.hiive.com/securities/athena-security-stock
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: No OpenAPI, AsyncAPI, GraphQL, or other contract found on any discovered host.
+  evidence:
+    - url: https://api.athena-security.com/openapi.json
+      status: 000
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 8
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

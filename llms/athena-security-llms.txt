@@ -1,0 +1,82 @@
+# Athena Security
+
+> Athena Security is an AI-powered entryway security company founded in 2018 and headquartered in Austin, Texas, with offices in the San Francisco Bay Area and an Experience Center in Jacksonville, Florida. The company serves healthcare systems, K-12 school districts, casinos, government facilities, and corporate campuses across the United States and internationally. Athena's platform integrates concealed weapons detection, AI-assisted X-ray scanning, visitor management, holographic telepresence officers, and AR alert glasses into a single connected system. The company is NDAA compliant, supports California AB 2975 hospital weapons-detection compliance, has deployed across clients including Duke Health (21 screening locations) and Lamar Consolidated ISD (24 systems), and received the Best Weapons Detection System Award at the 2022 ASTORS Homeland Security Awards.
+
+## Solutions
+
+- [Concealed Weapons Detection System](https://www.athena-security.com/concealed-weapons-detection-system/): AI-powered walkthrough screening platform compatible with Apollo 500, Apollo 650, CEIA Opengate, Garrett, and Metrasens Ultra hardware that detects concealed ferrous and non-ferrous threats while allowing everyday items to pass through.
+- [Hospital Visitor Management System](https://www.athena-security.com/hospitals): iPad-based visitor check-in system purpose-built for healthcare with real-time background checks, watchlist screening, Epic EHR integration, badge printing, and always-on offline capability during internet outages.
+- [Ambulance Bay Weapons Detection System](https://www.athena-security.com/concealed-weapons-detection-system/ambulance-bay-weapons-detection/): Purpose-built screening for stretcher patients arriving at hospital EMS entry points, using non-ionizing imaging radar to detect metallic and non-metallic threats while ignoring the stretcher itself, with single-operator iPad console and automatic chain-of-custody documentation.
+- [AI Assisted Baggage X-Ray](https://www.athena-security.com/baggage-xray-scanner/): Computer vision X-ray solution identifying firearms, knives, explosives, and 3D-printed weapons in real time, with automatic belt-stop technology and a single-console Workforce Multiplier configuration.
+- [Telepresence Security Officer](https://www.athena-security.com/telepresence-security-officer/): Holographic security officer system allowing one remote operator to cover up to four entry points with life-size interactive projection, multi-language support, and live operator mode.
+- [AthenaVision AR Alert Glasses](https://www.athena-security.com/ar-alert-glasses/): Augmented reality glasses delivering hands-free, real-time weapons detection and X-ray alerts to security officers so no notification is missed during active screening.
+- [Active Shooter Training](https://www.athena-security.com/active-shooter-training/): Organizational preparedness training programs designed to complement Athena's detection technology by preparing staff and security personnel for active shooter scenarios.
+- [DHS Best Practices Integration](https://www.athena-security.com/concealed-weapons-detection-system/dhs-best-practices/): Platform-level enforcement and documentation of Department of Homeland Security screening guidelines including DHS 14.2.2 prohibited items logging, DHS 8.2 equipment testing, and DHS 8.5 secondary screening procedures.
+- [Compliance and Reporting](https://www.athena-security.com/compliance/): Athena's compliance documentation and reporting capabilities covering SOC 2, HIPAA considerations, and regulatory alignment including California AB 2975 for hospital weapons detection mandates.
+
+## About & Trust
+
+- [Our Team](https://www.athena-security.com/team/): Profiles of Athena Security leadership including co-founders Lisa Falzone (President, former Revel Systems co-founder) and Chris Ciabarra (CTO, ISC West Risk Management Award Winner 2019).
+- [Case Studies](https://www.athena-security.com/case-studies/): Documented deployments at Duke Health, Franciscan Health, Indiana Regional Medical Center, Jefferson Regional Medical Center, Lamar Consolidated ISD, Parkwest Casino, and IDA Airport.
+- [Press and News Coverage](https://www.athena-security.com/press/): Media coverage, company announcements, and third-party editorial mentions of Athena Security.
+- [Investor Relations](https://www.athena-security.com/investor-relations/): Information for current and prospective investors in Athena Security.
+
+Trust signals:
+- NDAA compliant; deployed by U.S. Army and U.S. Air Force clients
+- Best Weapons Detection System Award, 2022 ASTORS Homeland Security Awards
+- MVP Award for Best Security App, ISC West 2023; ISC West Risk Management Award Winner
+- Third-party lab tested for cardiac pacemaker and implantable defibrillator safety per EN 45502, ISO 14117, and ISO 14708 series
+- Founded 2018 by Revel Systems co-founders (700+ employees, $200M+ raised, $500M+ valuation)
+- Hardware-agnostic platform compatible with Apollo, CEIA, Garrett, and Metrasens; no proprietary lock-in
+- Patented AI Evasion Detection is first-to-market technology detecting bypass attempts at screening checkpoints
+- Hospital VMS is the first Apple iPad solution in the industry with full offline capability
+- Minimum two days on-site post-installation support included with VMS deployments
+
+## Resources
+
+- [Entryway Security Blog](https://www.athena-security.com/blog/): Articles and expert perspectives on weapons detection, visitor management, DHS compliance, and physical security best practices.
+- [Integrated Weapon Screening White Paper](https://www.athena-security.com/integrated-weapon-screening-white-paper/): Best practices guide for implementing integrated weapons screening programs in high-security facilities.
+- [Healthcare Security Booklet 2025](https://www.athena-security.com/safe-healing-environment/): Resource for hospital security directors on weapons detection requirements and California AB 2975 compliance timelines.
+- [California AB 2975 Compliance](https://www.athena-security.com/california-ab-2975-compliance/): Overview of the California law requiring hospitals to implement weapons detection by 2027 and Athena's compliance pathway.
+- [Why Athena Outperforms Camera-Only Systems](https://www.athena-security.com/why-athena-outperforms-camera-only-weapon-detection-systems/): Comparison of active concealed weapons detection versus camera-only approaches.
+- [AI Secondary Screening Guide](https://www.athena-security.com/athenas-ai-elevates-secondary-screening-accuracy-efficiency-and-compliance/): How Athena's AI improves secondary screening accuracy, officer compliance, and audit documentation.
+- [Federal Funding and State Safety Grants](https://www.athena-security.com/federal-funding-state-safety-grants/): Grant programs available to help organizations fund weapons detection and security technology upgrades.
+- [ACE Resources](https://www.athena-security.com/ace-resources/): Technical specifications and planning resources for architects, engineers, and security consultants.
+- [FAQs](https://www.athena-security.com/faqs/): Common questions about Athena's platform, hardware compatibility, installation, and compliance features.
+- [Training Videos](https://www.athena-security.com/training-videos/): Operator training library covering system setup, daily testing, secondary screening, and DHS protocol procedures.
+- [OMNIA Partners Program](https://www.athena-security.com/omnia-partnership/): Cooperative purchasing vehicle for government and education agencies to procure Athena solutions at pre-negotiated contract pricing.
+
+## Industries Served
+
+- [Healthcare Facilities](https://www.athena-security.com/weapons-detection-system/industries/healthcare-facilities/): Weapons detection and visitor management solutions for hospitals and medical centers facing rising workplace violence and California AB 2975 compliance requirements.
+- [K-12 Schools](https://www.athena-security.com/weapons-detection-system/industries/k12/): Concealed weapons detection systems designed for school districts balancing high throughput, student safety, and limited security staffing.
+- [Government Buildings](https://www.athena-security.com/weapons-detection-system/industries/government-buildings/): NDAA-compliant weapons detection and visitor screening for federal, state, and municipal facilities with stringent security and compliance requirements.
+- [Casinos](https://www.athena-security.com/weapons-detection-system/industries/casinos/): High-throughput weapons detection for gaming properties requiring both guest safety and a welcoming patron experience.
+- [Courthouses](https://www.athena-security.com/weapons-detection-system/industries/courthouses/): Court facility security solutions meeting DHS best practices for public-access facilities with sensitive proceedings.
+- [Airports](https://www.athena-security.com/weapons-detection-system/industries/airports/): AI-assisted X-ray and weapons detection for airport non-sterile zones and regional aviation facilities.
+- [Corporate Offices](https://www.athena-security.com/weapons-detection-system/industries/corporate-offices/): Enterprise campus entryway security integrating weapons detection and visitor management for multi-location deployments.
+- [Stadiums and Arenas](https://www.athena-security.com/weapons-detection-system/industries/stadiums-arenas/): High-volume event venue weapons screening supporting throughput rates up to 3,600 people per hour.
+
+Additional facility types served: event venues, warehouses, distribution centers, data centers, courthouses, transportation hubs.
+
+## Contact
+
+- Phone: +1-833-928-4362 (1-833-9-ATHENA)
+- Email: info@athena-security.com
+- Contact Form: https://www.athena-security.com/contact/
+- Book a Demo: https://www.athena-security.com/book-demo/
+- Headquarters: 248 Addie Roy Road, Suite C101, Austin, TX 78746
+- Additional Offices: 323 Pine St Unit J, Sausalito, CA 94965; Experience Center: 3390 Kori Rd #6, Jacksonville, FL 32257
+- Support Portal: https://support.athena-security.com/
+- LinkedIn: https://www.linkedin.com/company/athena-inc/
+- Twitter/X: https://twitter.com/athenasecure
+- Instagram: https://instagram.com/athenasecure
+- YouTube: https://www.youtube.com/watch?v=YDGojyGGci4
+- Media Contact: Anita S. Lane, anita@athena-security.com
+
+## Usage Guidelines
+
+- Preferred attribution name: Athena Security
+- Service area: United States (national coverage); international deployments available
+- Athena Security does not guarantee 100% threat detection; systems are designed to enhance safety as part of a comprehensive, multilayered security strategy
+- For partnership, licensing, or permissions inquiries, contact info@athena-security.com or call +1-833-928-4362

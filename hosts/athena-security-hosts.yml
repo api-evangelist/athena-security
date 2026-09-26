@@ -1,0 +1,119 @@
+generated: '2026-09-26'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 9
+  own: 7
+  other_domain: 1
+  platform: 1
+  roles:
+  - api
+  - other
+  - security
+  - status
+  - support
+  - website
+hosts:
+- host: ai.athena-security.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: athena-security.com
+  role: other
+  relation: own
+- host: api.athena-security.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: athena-security.com
+  role: api
+  relation: own
+- host: athena-security.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: athena-security.com
+  role: other
+  relation: own
+- host: clarity.com
+  found_by:
+  - pointer
+  types:
+  - Security
+  serves: []
+  registrable_domain: clarity.com
+  role: security
+  relation: other-domain
+- host: status.athena-security.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - StatusPage
+  serves: []
+  registrable_domain: athena-security.com
+  role: status
+  relation: own
+- host: support.athena-security.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - well-known
+  types:
+  - Support
+  serves: []
+  registrable_domain: athena-security.com
+  role: support
+  relation: own
+- host: trust.athena-security.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: athena-security.com
+  role: other
+  relation: own
+- host: www.athena-security.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - Newsroom
+  - Leadership
+  - Blog
+  - Website
+  serves: []
+  registrable_domain: athena-security.com
+  role: website
+  relation: own
+- host: www.hiive.com
+  found_by:
+  - vendor-detect
+  types: []
+  serves:
+  - cdn
+  - hosting
+  vendor: cloudflare
+  registrable_domain: hiive.com
+  role: other
+  relation: platform
